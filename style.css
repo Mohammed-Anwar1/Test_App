@@ -62,8 +62,9 @@ a:hover{
     padding-left: 40px;
 }
 .profile1{
-    height: 550px;
+    height: 275px;
     border-radius: 15px;
+    width:500px;
 }
 .home{
     display: flex;
